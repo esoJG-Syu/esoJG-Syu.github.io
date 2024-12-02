@@ -358,6 +358,11 @@ footer {
     padding: 20px;
 }
 
+.experiencia-columna {
+    cursor: url('/images/Infinity_Gauntlet.png'), auto;
+}
+
+
 
 /* Responsive */
 
