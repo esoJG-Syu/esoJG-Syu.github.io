@@ -362,6 +362,16 @@ footer {
     cursor: url('/images/Infinity_Gauntlet.png'), auto;
 }
 
+.proyecto {
+    cursor: url('/images/gato_lap.png'), pointer;
+}
+
+.btn-info {
+    cursor: url('/images/Infinity_Gauntlet.png'), pointer;
+}
+
+
+
 
 
 /* Responsive */
