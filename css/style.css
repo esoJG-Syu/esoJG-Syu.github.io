@@ -370,7 +370,9 @@ footer {
     cursor: url('/images/Infinity_Gauntlet.png'), pointer;
 }
 
-
+footer .icons-sn a {
+    cursor: url('/images/Infinity_Gauntlet.png'), auto;
+}
 
 
 
